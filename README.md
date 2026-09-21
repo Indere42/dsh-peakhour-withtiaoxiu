@@ -2,8 +2,9 @@
 
 English | [中文](README.zh.md)
 
-A DeepSeek API peak/off-peak billing clock for the DSH Web GUI — **调休-aware**, with a policy that
-syncs from the official pricing page.
+This is my first time using an AI agent to write code. I built a billing clock that takes compensatory leave into account, and then I asked DeepSeek to teach me how to push it to GitHub.
+Please bear with me if there are any issues. Any feedback is welcome, though I'm still not quite sure how to view other people's comments and messages on GitHub...
+Everything below is AIGC-generated. I'm currently learning how to use AI agents, how to code, and how to use GitHub.
 
 ## What it solves
 
