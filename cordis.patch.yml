@@ -1,0 +1,11 @@
+# dsh-peakhour-withtiaoxiu bundle patch: inserts its own plugin row into the
+# web profile's plugin roster.
+#
+# One row mounts both halves of this package:
+#   - the HOST half (lib/index.js) owns the billing clock, the official-pricing
+#     sync, the 调休/holiday calendar cache and the /api/dsh-peakhour/* routes;
+#   - the BROWSER half (lib/client.js) is scanned out of `dsh.client` by the
+#     client-modules plugin and served from this package's lib/client.js.
+- insert:
+    - id: peakhour-withtiaoxiu
+      name: 'dsh-peakhour-withtiaoxiu'

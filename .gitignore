@@ -1,0 +1,8 @@
+# Build output
+node_modules/
+*.tgz
+
+# Local scratch
+*.log
+*.bak
+lib/client.source.recovered.js
