@@ -2,7 +2,9 @@
 
 [English](README.md) | 中文
 
-DeepSeek API 峰谷计价时钟插件，给 DSH Web GUI 用：**调休感知**，政策可随官网更新。
+这是我第一次使用AI agent进行代码编写，我做了一个考虑调休的计费时钟，然后我让DeepSeek教我如何提交到GitHub上。
+如果有任何问题，敬请谅解。欢迎任何指教，尽管我还不太了解怎么在GitHub上看到别人的评论和消息……
+以下全部是AIGC，我正在学习如何使用AI agent、如何编程和如何使用GitHub。
 
 ## 它解决什么
 
